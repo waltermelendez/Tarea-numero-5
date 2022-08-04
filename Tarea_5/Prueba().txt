@@ -1,0 +1,8 @@
+Objetivos de la lección:
+• Identificar los componentes de la escena
+• Crear y guardar un nuevo proyecto
+• Agregar un objeto a una escena
+• Comunicar el valor del almacenamiento de varias versiones de una escena
+• Codificar una instrucción de programación simple
+• Utilizar el comando de copia y deshacer
+• Comprender el valor de las pruebas y la depuración
